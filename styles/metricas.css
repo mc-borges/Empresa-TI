@@ -1,0 +1,24 @@
+.metricas{
+    display: flex;
+    margin: 1em;
+    list-style: none;
+    padding: 0 1em;
+    justify-content: space-between;
+}
+.metricas-lista{
+    padding: 2em;
+}
+.metricas-valor{
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--vermelho);
+    margin: 0;
+}
+.metricas-titulo{
+    font-size: 18px;
+    color: var(--cinza-escuro);
+}
+
+.metricas-descricao{
+    font-weight: 400;
+}

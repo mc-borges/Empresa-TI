@@ -1,0 +1,26 @@
+.depoimentos{
+    margin: 5em;
+    border-radius: 16px;
+    background: rgba(195, 25, 25, 0.03);
+    padding: 3em 4em;
+    text-align: center;
+}
+.depoimentos-chamada{
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--vermelho);
+}
+
+.depoimentos-declaracao{
+    color: var(--cinza-escuro);
+    font-size: 36px;
+}
+
+.depoimento-nome{
+    color: var(--cinza-escuro);
+}
+
+.depoimento-cargo{
+    font-size: 14px;
+    font-weight: 400;
+}

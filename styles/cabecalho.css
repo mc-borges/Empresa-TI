@@ -1,0 +1,20 @@
+.cabecalho{
+    text-align: center;
+    margin: 5em 20em;
+}
+.cabecalho-titulo{
+    font-weight: 600;
+    font-size: 48px;
+    color: var(--cinza-escuro);
+}
+
+.cabecalho-sobre-nos{
+    font-weight: 600;
+    color: var(--vermelho);
+}
+
+.cabecalho-descricao{
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cinza);
+}

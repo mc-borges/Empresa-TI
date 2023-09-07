@@ -1,0 +1,28 @@
+.container{
+    margin: 0 20em;
+}
+.tipo-vaga{
+    font-size: 20px;
+    color: var(--cinza-escuro);
+    padding: .5em 0;
+}
+.card-vaga{
+    border: 1px solid var(--cinza);
+    border-radius: 8px;
+    padding: .5em 1em;
+    margin-bottom: 2em;
+}
+.vaga-cargo{
+    font-size: 18px;
+    color: var(--cinza-escuro);
+}
+
+.descricao-card{
+    display: flex;
+}
+.vaga-modalidade{
+    padding-right: 2em;
+}
+.vaga-modalidade, .vaga-salario{
+    color: var(--cinza);
+}

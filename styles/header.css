@@ -1,0 +1,46 @@
+.navbar{
+    display: flex;
+    margin: 1em;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.logo{
+    display: flex;
+}
+.nome-empresa{
+    padding-left: .5em;
+    color: var(--cor-logo);
+    font-size: 18px;
+}
+
+.paginas{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    margin-right: 20em;
+}
+.paginas-lista{
+    padding: 0 1em;
+}
+.paginas-link{
+    text-decoration: none;
+    color: var(--cinza);
+}
+
+.botao-1{
+    margin-right: 1em;
+    background-color: transparent;
+    border: none;
+    padding: 1em;
+    text-decoration: none;
+}
+
+.botao-2{
+    background-color: var(--vermelho);
+    color: white;
+    border: none;
+    padding: 1em;
+    border-radius: 8px ;
+    text-decoration: none;
+}
